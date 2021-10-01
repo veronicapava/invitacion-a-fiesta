@@ -4,3 +4,5 @@ Prácticando Vanilla JS, he creado una página en la cual se pregunta la edad pa
 ## Instalación 
 
 Descargar los archivos y abrir el archivo HTML en el navegador.
+
+Aquí puedes usarla en el navegador: https://veronicapava.github.io/invitacion-a-fiesta/
